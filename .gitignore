@@ -6,5 +6,7 @@
 #!build/:添加整个文件夹
 #!.class：添加所有该后缀的文件
 #!local.properties：添加具体文件
-local.properties prac.go
+
+#local.properties prac.go
+#忽略文件和目录
 prac
